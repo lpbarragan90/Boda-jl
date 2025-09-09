@@ -1,4 +1,5 @@
-const CACHE = 'mesas-jl-pwa-v1';
+
+const CACHE = 'mesas-jl-pwa-v4';
 const ASSETS = [
   './',
   './index.html',
